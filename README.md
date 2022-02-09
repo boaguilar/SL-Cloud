@@ -4,6 +4,9 @@ This project provides a cloud-based data access platform coupled with software a
 
 Please find our paper [here](https://www.biorxiv.org/content/10.1101/2021.09.18.459450v1).
 
+Open the framework in MyBinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boaguilar/SL-Cloud/HEAD)
+
+
  If you have any questions, please reach out Bahar Tercan btercan@systemsbiology.org. 
 
 ## Getting Started
