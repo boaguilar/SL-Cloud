@@ -2,12 +2,11 @@
 
 This project provides a cloud-based data access platform coupled with software and well documented computational notebooks that re-implement published synthetic lethality (SL) inference algorithms to facilitate novel investigation into synthetic lethality. In addition  we provide general purpose functions that support these prediction workflows e.g. saving data in bigquery tables. We anticipate that computationally savvy users can leverage the resources provided in this project to conduct highly customizable analysis based on their cancer type of interest and particular context. 
 
+Open the framework in **MyBinder**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boaguilar/SL-Cloud/HEAD).
+**Note**: for **MyBinder**, run the **MyBinder_Authentication.ipynb notebook** first!.
+
 Please find our paper [here](https://www.biorxiv.org/content/10.1101/2021.09.18.459450v1).
-
-Open the framework in MyBinder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boaguilar/SL-Cloud/HEAD)
-
-
- If you have any questions, please reach out Bahar Tercan btercan@systemsbiology.org. 
+If you have any questions, please reach out Bahar Tercan btercan@systemsbiology.org. 
 
 ## Getting Started
 
