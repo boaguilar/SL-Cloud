@@ -10,6 +10,8 @@ Please find our paper [here](https://www.biorxiv.org/content/10.1101/2021.09.18.
 
 If you have any questions, please reach out Bahar Tercan btercan@systemsbiology.org. 
 
+Zenodo : [![DOI](https://zenodo.org/badge/476040191.svg)](https://zenodo.org/badge/latestdoi/476040191)
+
 ## Getting Started
 
 ### Get a Google Identity
